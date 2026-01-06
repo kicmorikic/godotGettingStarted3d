@@ -1,6 +1,6 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "godotGettingStarted3d", "godotGettingStarted3d.csproj", "{27BE3CBA-064B-41E9-A8CB-D7A17B1E6B94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotGettingStarted3d", "GodotGettingStarted3d.csproj", "{27BE3CBA-064B-41E9-A8CB-D7A17B1E6B94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

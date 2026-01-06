@@ -4,4 +4,9 @@
     <TargetFramework Condition=" '$(GodotTargetPlatform)' == 'android' ">net9.0</TargetFramework>
     <EnableDynamicLoading>true</EnableDynamicLoading>
   </PropertyGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+    <Content Include="GodotGettingStarted3d.sln" />
+    <Content Include="project.godot" />
+  </ItemGroup>
 </Project>
